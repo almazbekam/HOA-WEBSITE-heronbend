@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.d5d312e7.js",
+    "static/media/streetdark.png": "/static/media/streetdark.18427c7ab294799b4a09.png",
+    "static/media/streetlight.png": "/static/media/streetlight.1e653e848c81024b7192.png",
+    "static/media/heronbendlo.png": "/static/media/heronbendlo.ebfe2c5023c4c14f8e0f.png",
+    "static/media/heronbendlogo.png": "/static/media/heronbendlogo.767da2013ef1feb07875.png",
+    "index.html": "/index.html",
+    "main.d5d312e7.js.map": "/static/js/main.d5d312e7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d5d312e7.js"
+  ]
+}
