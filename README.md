@@ -5,6 +5,10 @@ This project is a modern, user-friendly **Homeowners Association (HOA) website**
 
 The goal of this project was to make communication easier, improve transparency, and create a better online experience for my local community.
 
+## ⏱️ Development Timeline
+
+The HOA website was developed over a period of **4 months**, working **2–4 hours per week** around school commitments. This slower pace allowed careful planning, testing, and iterative improvements for both the public-facing pages and admin portal.
+
 ---
 
 ## 🚀 Features
